@@ -195,6 +195,6 @@ int main() {
     }
 
     printf("============================================\n");
-    printf(novo comit\n);
+
     return 0;
 }
